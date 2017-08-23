@@ -1,0 +1,11 @@
+#+TITLE: Expmv.jl
+#+AUTHOR: Stefanos Carlström
+#+EMAIL: stefanos.carlstrom@gmail.com
+
+[[https://travis-ci.org/JuliaDiffEq/Expmv.jl][https://travis-ci.org/JuliaDiffEq/Expmv.jl.svg?branch=master]]
+[[https://coveralls.io/github/JuliaDiffEq/Expmv.jl?branch=master][https://coveralls.io/repos/JuliaDiffEq/Expmv.jl/badge.svg?branch=master&service=github]]
+[[http://codecov.io/github/JuliaDiffEq/Expmv.jl?branch=master][http://codecov.io/github/JuliaDiffEq/Expmv.jl/coverage.svg?branch=master]]
+
+This library aims to implement the action of a matrix exponential on a
+vector using a variety of algorithms, for use in exponential
+propagation of differential equations.
